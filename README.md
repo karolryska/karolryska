@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello there! :wave:
 
-<!--
-**karolryska/karolryska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I'm Karol, front-end dev wannabe from Warsaw. I've been coding since 2019 and trying to develop my skills as fast as possible. I'd like find my first commercial job and improve myself as a creative front-end developer with React.js.
 
-Here are some ideas to get you started:
+Next goal is to get familiar with TypeScript and some UI/UX issues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- HTML
+- CSS + SASS
+- JavaScript
+- React
+- Gatsby
+- styled-components
+- git
+- npm / yarn
+- Figma
+- Adobe (PS, IL, ID)
+
+## Contact
+In case of any questions, feel free to send me an email or dm me via my LinkedIn profile :email:
