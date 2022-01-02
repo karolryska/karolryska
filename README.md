@@ -1,9 +1,9 @@
 # Hello there! :wave:
 
 ## About
-I'm Karol, front-end dev wannabe from Warsaw. I've been coding since 2019 and trying to develop my skills as fast as possible. I'd like to find my first commercial job and improve myself as creative front-end developer with React.js.
+I'm Karol, frontend dev wannabe from Warsaw. I've been coding since 2019, gained my skills from online courses and stationary workshops. I'd like to find my first commercial job and grow as creative front-end developer.
 
-My next goal is to get familiar with TypeScript and some UI/UX issues.
+In the near future, I plan to get familiar with TypeScript and UI/UX issues.
 
 ## Stack
 - HTML
